@@ -1,0 +1,33 @@
+header h1{
+    color: #000;
+    float: left;
+    margin: 6% 20%;
+    font-size: 400%;
+    box-shadow: 0 9px rgb(165, 11, 254);
+}
+body{
+    background-color: rgba(168, 116, 251, 0.59);
+}
+p{
+   width: 50%;
+   height: 50%;
+   margin: 2% 10%
+}
+.img1{
+    width: 22%;
+    height: 20%;
+    float: right;
+    margin: 2% 12%;
+    box-shadow: 0 0 20px rgb(46, 2, 83) ;
+}
+
+.clear{
+    clear: both;
+}
+
+.img2{
+    width: 50%;
+    height: 20%;
+    margin: 2% 27%;
+    box-shadow: 0 0 20px rgb(46, 2, 83) ;
+}
